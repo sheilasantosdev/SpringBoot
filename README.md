@@ -28,9 +28,3 @@ Crie a classe `PessoaService` no pacote `service` com os métodos: `save`, `find
 ## Controlador
 
 Crie a classe `PessoaController` no pacote `controller` com os endpoints: `save`, `findAll`, `findById`, `deleteById`.
-
-```bash
-./mvnw spring-boot:run
-```
-
-Ou execute a classe principal diretamente na sua IDE.
