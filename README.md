@@ -7,12 +7,6 @@ Claro, aqui está o README.md formatado corretamente para o GitHub:
 Este projeto é uma aplicação Spring Boot com operações CRUD básicas para gerenciar a entidade `Pessoa`. Ele utiliza Spring Data JPA e H2 Database.
 
 
-## Introdução
-
-Para começar com este projeto:
-
-1.  Compile o projeto usando Maven ou Gradle.
-
 ## Dependências
 
 - Spring Web
